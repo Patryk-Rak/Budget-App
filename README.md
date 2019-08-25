@@ -12,4 +12,4 @@ IN WORK
 
 ## Scheme
 
-IN WORK
+![](src/assets/pictures/project-scheme/1.png)
