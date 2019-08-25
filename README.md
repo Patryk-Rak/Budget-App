@@ -14,9 +14,9 @@ IN WORK
 
 Picture 1 - Idea of budget app:
 
-![](src/assets/pictures/project-scheme/1.png)
+![](src/assets/images/project-scheme/1.png)
 
 
 Picture 2 - Billing List page:
 
-![](src/assets/pictures/project-scheme/2.png)
+![](src/assets/images/project-scheme/2.png)
