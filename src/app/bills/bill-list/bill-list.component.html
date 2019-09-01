@@ -1,1 +1,20 @@
-<p>bill-list works!</p>
+<ul class="list-group">
+  <li class="list-group-item list-group-item-primary"
+  *ngFor="let bill of bills">
+    <div class="d-flex justify-content-between">
+      <div style="margin-top:auto; margin-bottom:auto;">
+        Title: {{ bill.title }}
+      </div>
+      <div style="margin-top:auto; margin-bottom:auto;">
+        Amount: {{ bill.amount }} zł
+      </div>
+      <div>
+        <button type="button" class="btn btn-primary">Show more</button>
+      </div>
+    </div>
+  </li>
+</ul>
+
+<app-bill-description></app-bill-description>
+<app-bill-edit></app-bill-edit>
+<app-bill-item></app-bill-item>

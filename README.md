@@ -8,7 +8,7 @@ IN WORK
 
 ## Patch Notes
 
-###Ver. 0.1:
+###Ver. 0.1 Pre-Alpha:
 Date: 26.05.2019
 Description:
 - created repo and make first note in README.md
